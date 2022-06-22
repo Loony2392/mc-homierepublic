@@ -1,0 +1,2 @@
+https://github.com/Loony2392/mc-homierepublic/blob/main/plugins/DeathChestPro-4.0.0.jar,
+https://github.com/Loony2392/mc-homierepublic/blob/main/plugins/Elevator.jar
