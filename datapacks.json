@@ -1,0 +1,11 @@
+{
+  "type": "datapacks",
+  "version": "1.18",
+  "packs": {
+    "survival": [
+      "graves",
+      "multiplayer sleep",
+    ],
+    "items": ["armored elytra"]
+  }
+}
